@@ -1,0 +1,6 @@
+[2025-08-14 14:50:55,245][checkpoint][WARNING] - [93mProvided checkpoint directory ./checkpoints does not exist, skipping load[0m
+[2025-08-14 14:50:55,246][darcy_fno][WARNING] - [93mModel FourierNeuralOperator does not support AMP on GPUs, turning off[0m
+[2025-08-14 14:50:55,256][darcy_fno][WARNING] - [93mModel FourierNeuralOperator does not support AMP on GPUs, turning off[0m
+[2025-08-14 14:50:55,256][darcy_fno][INFO] - [92mTraining started...[0m
+[2025-08-14 14:52:53,117][train][INFO] - [94mEpoch 1 Metrics: Learning Rate =  1.000e-03, loss =  7.632e-01[0m
+[2025-08-14 14:52:53,119][train][INFO] - [94mEpoch Execution Time:  1.166e+02s, Time/Iter:  3.643e+03ms[0m
